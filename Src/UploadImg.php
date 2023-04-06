@@ -2,7 +2,7 @@
 
 namespace UploadIMG;
 
-class UploadIMG
+trait UploadIMG
 {
     public function photo($img, $path)
     {
