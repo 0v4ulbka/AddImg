@@ -1,0 +1,21 @@
+{
+    "name": "0v4ulbka/add-img",
+    "description": "Package Add image",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dima",
+            "email": "dimahudobin05@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^7.4 | ^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "UploadIMG\\": "src/"
+        }
+    }
+}
